@@ -9,3 +9,10 @@
   - editing with colors
   - converting into Grey_scale image: formula
 - Creating New_Image
+
+## Audio_file:
+
+- Reading the Audio_file
+- Plot the audio data
+- Play the audio 
+- using Widgets
